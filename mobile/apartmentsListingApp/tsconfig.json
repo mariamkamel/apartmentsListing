@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@env": [
+        "./.env"
+      ]
+    }
+  },
+  "extends": "expo/tsconfig.base"
+}
